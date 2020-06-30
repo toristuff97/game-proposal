@@ -22,13 +22,13 @@ The screen you're taken to when you click "CONTROLS" on the start screen
 ![](./wireframes/controls-screen.png)
 
 Once you click "CLICK TO START" on the start screen, you get to pick which song you want to play here. (Clicking on any part of the song box will play a preview of it, while clicking on the play button will take you to the play screen.)
-![](./wireframes/song-selection2.png)
+![](./wireframes/song-selection.png)
 
 This is what the actual play screen will look like (the computer's note track is shown on the right, the player's note track is on the left side.) I would also like to have the lyrics to the chosen song scrolling at the bottom (stretch goal).
 ![](./wireframes/play-screen.png)
 
 This just shows all the icons/elements I "drew" and what they are specifically. Also an alternate story for the game.
-![](./wireframes/icons-and-such.png)
+![](./wireframes/song-selection2.png)
 
 ## Timeline
 <ul>
