@@ -31,15 +31,15 @@ This just shows all the icons/elements I "drew" and what they are specifically. 
 ![](./wireframes/icons-and-such.png)
 
 ## Timeline
-
-- Tuesday: Start pseudocoding, figuring out what exact methods/functions/etc. I'm going to need for this to work. Hopefully start on JS
+<ul>
+<li>Tuesday: Start pseudocoding, figuring out what exact methods/functions/etc. I'm going to need for this to work. Hopefully start on JS
 <br>
-- Wednesday: Focus entirely on JS (work on controls and scoring system as well as note classes), and start acquiring assets (turning my wireframe icons into game assets, saving mp3s of the songs, album covers, etc.), also linking the pages together.
+<li> Wednesday: Focus entirely on JS (work on controls and scoring system as well as note classes), and start acquiring assets (turning my wireframe icons into game assets, saving mp3s of the songs, album covers, etc.), also linking the pages together.
 <br>
-- Thursday: Create the keyframes for the note tracks and figure out how to time them perfectly with the songs (maybe use delays or setTimeout?). Also work on conditionals for the points and accuracy counters. Also create functions and such for the Computer.
+<li> Thursday: Create the keyframes for the note tracks and figure out how to time them perfectly with the songs (maybe use delays or setTimeout?). Also work on conditionals for the points and accuracy counters. Also create functions and such for the Computer.
 <br>
-- Friday: Ideally finish all major JS (including song/note timing), start working on CSS
+<li> Friday: Ideally finish all major JS (including song/note timing), start working on CSS
 <br>
-- Saturday: Flesh out minor JS (stretch goals like star power and scrolling lyrics), and continue working on CSS (can be saved for later if JS is not cooperating)
+<li> Saturday: Flesh out minor JS (stretch goals like star power and scrolling lyrics), and continue working on CSS (can be saved for later if JS is not cooperating)
 <br>
-- Sunday: Make any final changes and finish up CSS. Test, test, test!
+<li> Sunday: Make any final changes and finish up CSS. Test, test, test!
